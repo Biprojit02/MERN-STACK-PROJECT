@@ -1,2 +1,2 @@
-# MERN-STACK-PROJECT
-CHAT-GPT-CLONE
+# MernStack-chatGPT-Clone
+complete mern stack chat gpt clone 
